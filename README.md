@@ -1,3 +1,4 @@
+Executive Summary
 Introduction: 
 
 The healthcare industry has become even more vital in today’s world, especially in the years following the COVID pandemic.
