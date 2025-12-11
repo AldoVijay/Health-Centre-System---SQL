@@ -40,4 +40,3 @@ SQL enables the efficient creation, retrieval, updating, and deletion (CRUD) of 
 By executing structured queries, healthcare data can be accessed, analysed, and managed seamlessly, ensuring accuracy, consistency, and reliability. 
 This relational database system ultimately supports smoother healthcare workflows and enhances overall data management within the organization. 
 
-managed seamlessly, ensuring accuracy, consistency, and reliability. This relational database system ultimately supports smoother healthcare workflows and enhances overall data management within the organization. 
